@@ -37,51 +37,6 @@ I build software that is **stable, scalable, and professional**.
 
 ---
 
-# 🏗 Core Skills
-
-### 🧩 Backend & Architecture
-- Laravel (production systems)
-- Supabase (Auth, PostgreSQL, Storage)
-- REST API engineering
-- Role-based access control (RBAC)
-- Workflow & approval systems
-- Secure database design
-
-### 🎨 Frontend Engineering
-- Bootstrap 5 (admin dashboards)
-- Tailwind CSS (modern UI)
-- Responsive design systems
-- Component architecture
-- UX hierarchy & layout structuring
-
-### 📱 Mobile Development
-- Flutter app architecture
-- Offline-first sync system
-- Local database (SQLite/Drift)
-- Performance optimized UI
-
-### 🗄 Database
-- PostgreSQL
-- MySQL
-- SQLite
-- Query optimization
-- Schema design
-
----
-
-# 📊 Skill Strength
-
-| Skill | Level |
-|------|------|
-| System Architecture | ██████████ 95% |
-| Backend Development | █████████░ 90% |
-| UI/Frontend | █████████░ 88% |
-| Database Design | █████████░ 85% |
-| Flutter | ████████░░ 80% |
-| DevOps/Deployment | ███████░░░ 70% |
-
----
-
 # 🏆 Featured Projects
 
 ## 🏛 Smart e-File Approval System
