@@ -101,7 +101,7 @@ I build with discipline:
 
 # 🌐 Connect With Me
 
-**Portfolio:** https://cjohnmizo.vercel.app  
+**Portfolio:** https://cjohnmizo.in 
 **Email:** johnchangsan39@gmail.com  
 
 ---
